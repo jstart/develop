@@ -1,0 +1,14 @@
+[
+    {
+        "content": "Hello",
+        "timestamp": "DATE",
+        "metadata": {},
+        "author" : "coach"
+    },
+    {
+        "content": "",
+        "timestamp": "DATE",
+        "metadata": {"mediaURL":"whatever.png"},
+        "author": "client"
+    }
+]

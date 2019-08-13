@@ -1,0 +1,14 @@
+{
+    "name": "Christopher Truman",
+    "email": "cleetruman@gmail.com",
+    "phone": "13103479814",
+    "profile_photo": "https://bigboyfacetime.com/head.jpg",
+    "guid": "1",
+    "company": "Sony",
+    "job_title": "Senior Software Engineer",
+    "coach": 1,
+    "meeting_credits": 2,
+    "state": "completed_intro, new, scheduled_intro, purchased_credits, used_all_credits",
+    "notifications_enabled": true,
+    "email_enabled": false
+}
