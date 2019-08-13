@@ -39,6 +39,23 @@
 		ADC64BA62301DEB4005B6C88 /* LoginObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC64BA52301DEB4005B6C88 /* LoginObserver.swift */; };
 		ADC64BA82301F62D005B6C88 /* LoginRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC64BA72301F62D005B6C88 /* LoginRouter.swift */; };
 		ADC64BAA2301F84E005B6C88 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC64BA92301F84E005B6C88 /* LoginController.swift */; };
+		ADC64BAD23026EB5005B6C88 /* CoachCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC64BAC23026EB5005B6C88 /* CoachCollectionViewCell.swift */; };
+		ADC64BBF2302759A005B6C88 /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BAF2302759A005B6C88 /* Icon-App-76x76@2x.png */; };
+		ADC64BC02302759A005B6C88 /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB02302759A005B6C88 /* Icon-App-29x29@1x.png */; };
+		ADC64BC12302759A005B6C88 /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB12302759A005B6C88 /* Icon-App-40x40@1x.png */; };
+		ADC64BC22302759A005B6C88 /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB22302759A005B6C88 /* Icon-App-20x20@1x.png */; };
+		ADC64BC32302759A005B6C88 /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB32302759A005B6C88 /* Icon-App-83.5x83.5@2x.png */; };
+		ADC64BC42302759A005B6C88 /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB42302759A005B6C88 /* Icon-App-20x20@3x.png */; };
+		ADC64BC52302759A005B6C88 /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB52302759A005B6C88 /* ItunesArtwork@2x.png */; };
+		ADC64BC62302759A005B6C88 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB62302759A005B6C88 /* Contents.json */; };
+		ADC64BC72302759A005B6C88 /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB72302759A005B6C88 /* Icon-App-20x20@2x.png */; };
+		ADC64BC82302759A005B6C88 /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB82302759A005B6C88 /* Icon-App-29x29@3x.png */; };
+		ADC64BC92302759A005B6C88 /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BB92302759A005B6C88 /* Icon-App-40x40@2x.png */; };
+		ADC64BCA2302759A005B6C88 /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BBA2302759A005B6C88 /* Icon-App-60x60@3x.png */; };
+		ADC64BCB2302759A005B6C88 /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BBB2302759A005B6C88 /* Icon-App-60x60@2x.png */; };
+		ADC64BCC2302759A005B6C88 /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BBC2302759A005B6C88 /* Icon-App-76x76@1x.png */; };
+		ADC64BCD2302759A005B6C88 /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BBD2302759A005B6C88 /* Icon-App-40x40@3x.png */; };
+		ADC64BCE2302759A005B6C88 /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC64BBE2302759A005B6C88 /* Icon-App-29x29@2x.png */; };
 		ADE4C6F2230134CF002FF4F0 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6B5F91230132EE006482DC /* RegisterViewController.swift */; };
 		ADE4C6F3230134D6002FF4F0 /* VerifyPhoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6B5F922301331D006482DC /* VerifyPhoneViewController.swift */; };
 /* End PBXBuildFile section */
@@ -113,6 +130,23 @@
 		ADC64BA52301DEB4005B6C88 /* LoginObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginObserver.swift; sourceTree = "<group>"; };
 		ADC64BA72301F62D005B6C88 /* LoginRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRouter.swift; sourceTree = "<group>"; };
 		ADC64BA92301F84E005B6C88 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
+		ADC64BAC23026EB5005B6C88 /* CoachCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoachCollectionViewCell.swift; sourceTree = "<group>"; };
+		ADC64BAF2302759A005B6C88 /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		ADC64BB02302759A005B6C88 /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		ADC64BB12302759A005B6C88 /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		ADC64BB22302759A005B6C88 /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		ADC64BB32302759A005B6C88 /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		ADC64BB42302759A005B6C88 /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		ADC64BB52302759A005B6C88 /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
+		ADC64BB62302759A005B6C88 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		ADC64BB72302759A005B6C88 /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		ADC64BB82302759A005B6C88 /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		ADC64BB92302759A005B6C88 /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		ADC64BBA2302759A005B6C88 /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		ADC64BBB2302759A005B6C88 /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		ADC64BBC2302759A005B6C88 /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		ADC64BBD2302759A005B6C88 /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		ADC64BBE2302759A005B6C88 /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
 		FAED2F16B2F9BED61FF57E86 /* Pods_Develop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Develop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -214,6 +248,7 @@
 		AD297D0D22FCD41C00E557CF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				ADC64BAE2302759A005B6C88 /* AppIcon.appiconset */,
 				AD297CF422FCCE3300E557CF /* Assets.xcassets */,
 				AD297CF622FCCE3300E557CF /* LaunchScreen.storyboard */,
 				AD297CF922FCCE3300E557CF /* Info.plist */,
@@ -322,6 +357,7 @@
 			isa = PBXGroup;
 			children = (
 				AD297D1C22FCD62A00E557CF /* CoachCollectionViewController.swift */,
+				ADC64BAC23026EB5005B6C88 /* CoachCollectionViewCell.swift */,
 			);
 			path = "Coach List";
 			sourceTree = "<group>";
@@ -386,6 +422,29 @@
 				AD6B5F7F22FE59F0006482DC /* Info.plist */,
 			);
 			path = DevelopPlayground;
+			sourceTree = "<group>";
+		};
+		ADC64BAE2302759A005B6C88 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				ADC64BAF2302759A005B6C88 /* Icon-App-76x76@2x.png */,
+				ADC64BB02302759A005B6C88 /* Icon-App-29x29@1x.png */,
+				ADC64BB12302759A005B6C88 /* Icon-App-40x40@1x.png */,
+				ADC64BB22302759A005B6C88 /* Icon-App-20x20@1x.png */,
+				ADC64BB32302759A005B6C88 /* Icon-App-83.5x83.5@2x.png */,
+				ADC64BB42302759A005B6C88 /* Icon-App-20x20@3x.png */,
+				ADC64BB52302759A005B6C88 /* ItunesArtwork@2x.png */,
+				ADC64BB62302759A005B6C88 /* Contents.json */,
+				ADC64BB72302759A005B6C88 /* Icon-App-20x20@2x.png */,
+				ADC64BB82302759A005B6C88 /* Icon-App-29x29@3x.png */,
+				ADC64BB92302759A005B6C88 /* Icon-App-40x40@2x.png */,
+				ADC64BBA2302759A005B6C88 /* Icon-App-60x60@3x.png */,
+				ADC64BBB2302759A005B6C88 /* Icon-App-60x60@2x.png */,
+				ADC64BBC2302759A005B6C88 /* Icon-App-76x76@1x.png */,
+				ADC64BBD2302759A005B6C88 /* Icon-App-40x40@3x.png */,
+				ADC64BBE2302759A005B6C88 /* Icon-App-29x29@2x.png */,
+			);
+			path = AppIcon.appiconset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -506,12 +565,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADC64BC52302759A005B6C88 /* ItunesArtwork@2x.png in Resources */,
 				AD297D3422FCE64900E557CF /* User.json in Resources */,
 				AD297D3222FCE64900E557CF /* coach_messages.json in Resources */,
 				AD297CF822FCCE3300E557CF /* LaunchScreen.storyboard in Resources */,
+				ADC64BC22302759A005B6C88 /* Icon-App-20x20@1x.png in Resources */,
+				ADC64BC82302759A005B6C88 /* Icon-App-29x29@3x.png in Resources */,
+				ADC64BC02302759A005B6C88 /* Icon-App-29x29@1x.png in Resources */,
+				ADC64BCC2302759A005B6C88 /* Icon-App-76x76@1x.png in Resources */,
+				ADC64BBF2302759A005B6C88 /* Icon-App-76x76@2x.png in Resources */,
+				ADC64BCB2302759A005B6C88 /* Icon-App-60x60@2x.png in Resources */,
 				AD297CF522FCCE3300E557CF /* Assets.xcassets in Resources */,
+				ADC64BCA2302759A005B6C88 /* Icon-App-60x60@3x.png in Resources */,
+				ADC64BC92302759A005B6C88 /* Icon-App-40x40@2x.png in Resources */,
+				ADC64BC72302759A005B6C88 /* Icon-App-20x20@2x.png in Resources */,
+				ADC64BC12302759A005B6C88 /* Icon-App-40x40@1x.png in Resources */,
 				AD297D3322FCE64900E557CF /* coaches.json in Resources */,
+				ADC64BCE2302759A005B6C88 /* Icon-App-29x29@2x.png in Resources */,
 				AD297D3122FCE64900E557CF /* next_meeting.json in Resources */,
+				ADC64BC32302759A005B6C88 /* Icon-App-83.5x83.5@2x.png in Resources */,
+				ADC64BCD2302759A005B6C88 /* Icon-App-40x40@3x.png in Resources */,
+				ADC64BC42302759A005B6C88 /* Icon-App-20x20@3x.png in Resources */,
+				ADC64BC62302759A005B6C88 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -587,6 +662,7 @@
 				AD297D1F22FCD67400E557CF /* ProfileTableViewController.swift in Sources */,
 				AD297D3622FCE65300E557CF /* User.swift in Sources */,
 				AD297D2122FCD70700E557CF /* ChatViewController.swift in Sources */,
+				ADC64BAD23026EB5005B6C88 /* CoachCollectionViewCell.swift in Sources */,
 				AD6B5F7322FE539A006482DC /* SelectorViewController.swift in Sources */,
 				ADE4C6F3230134D6002FF4F0 /* VerifyPhoneViewController.swift in Sources */,
 				ADC64BA62301DEB4005B6C88 /* LoginObserver.swift in Sources */,
